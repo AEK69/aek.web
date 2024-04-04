@@ -1,0 +1,172 @@
+* {
+    scroll-behavior: smooth;
+    transition: all 100ms ease-in-out;
+    --fontColor: #8a8a8a --fontHover: #dcdcdc;
+    --backgroundColor: #111111;
+    --primaryColor: #242424;
+}
+
+body {
+
+    margin: 0;
+    padding: 0;
+    background: url(img/dot.svg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #000000;
+
+
+}
+
+.container {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.profile {
+
+    width: 118px;
+    height: 118px;
+    background-image: url(img/Logo.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    top: 5px;
+    left: calc(50% - 59px);
+    border-radius: 10%;
+}
+
+
+.content {
+
+    margin-top: 37px;
+    padding-top: 35px;
+    width: 330px;
+    height: 235px;
+
+    background-color: white;
+    border-radius: 21px;
+}
+
+.text {
+
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+}
+
+.text a {
+
+    text-decoration: none;
+
+}
+
+.text h2 {
+
+    padding-top: 20px;
+    margin: 0 auto;
+    font-family: 'Misans Lao', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    color: black;
+    font-size: 24px;
+}
+
+.text p {
+
+    margin: 0 auto;
+    font-family: 'Sansation', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    color: black;
+    font-size: 16px;
+}
+
+
+.content2 {
+
+    margin-top: 25px;
+}
+
+.button {
+
+    display: block;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    width: 330px;
+    height: auto;
+
+}
+
+.btn img {
+
+    margin-top: 20px;
+
+}
+
+
+.profile3 {
+
+    width: 24px;
+    height: 24px;
+    background-image: url(img/Logo.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    top: 5px;
+    left: calc(50% - 59px);
+    border-radius: 50%;
+}
+
+
+.content3 {
+
+    margin-top: 37px;
+    padding-top: 35px;
+    width: 330px;
+    height: 235px;
+
+    background-color: white;
+    border-radius: 21px;
+}
+
+.text3 {
+
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+}
+
+.text3 a {
+
+    text-decoration: none;
+
+}
+
+.text3 h2 {
+
+    padding-top: 20px;
+    margin: 0 auto;
+    font-family: 'Misans Lao', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    color: black;
+    font-size: 24px;
+}
+
+.text3 p {
+
+    margin: 0 auto;
+    font-family: 'Sansation', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    color: black;
+    font-size: 16px;
+}
+
+.font {
+    font-family: "Noto Sans Lao";
+}

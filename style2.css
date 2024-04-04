@@ -1,0 +1,219 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url(img/dot.svg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #000000;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.profile {
+  width: 118px;
+  height: 118px;
+  background-image: url(img/Logo.png);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  top: 5px;
+  left: calc(50% - 59px);
+  border-radius: 50%;
+}
+
+.content {
+  margin-top: 37px;
+  padding-top: 35px;
+  width: 330px;
+  height: 235px;
+
+  background-color: white;
+  border-radius: 21px;
+}
+
+.text {
+  text-align: center;
+  margin: 0 auto;
+  color: black;
+}
+
+.text a {
+  text-decoration: none;
+}
+
+.text h2 {
+  padding-top: 20px;
+  margin: 0 auto;
+  font-family: "Misans Lao", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  color: black;
+  font-size: 24px;
+}
+
+.text p {
+  margin: 0 auto;
+  font-family: "Sansation", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  color: black;
+  font-size: 16px;
+}
+
+.container-glr {
+  padding-top: 10px;
+}
+
+.gelery {
+  justify-content: center;
+}
+
+.gelery img {
+  margin: 3px;
+  width: 153px;
+  height: auto;
+  border-radius: 13px;
+}
+
+.back {
+  margin-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.button {
+  padding-top: 25px;
+  display: block;
+  transition: tranform 0.9 ease;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.btn {
+  background: linear-gradient(to right, #ffffff, #a5a5a5);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  padding: 15px 60px;
+  font-size: 25px;
+  text-decoration: none;
+  border-radius: 40px;
+  font-family: "Misans Lao", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.btn i {
+  color: #ffffff;
+}
+
+/* 
+-----------------> @media screen  ----------------->*/
+
+@media only screen and (max-width: 400px) {
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .profile {
+    width: 118px;
+    height: 118px;
+    background-image: url(img/Logo.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    top: 5px;
+    left: calc(50% - 59px);
+    border-radius: 50%;
+  }
+
+  .content {
+    margin-top: 37px;
+    padding-top: 35px;
+    width: 330px;
+    height: 235px;
+
+    background-color: white;
+    border-radius: 21px;
+  }
+
+  .text {
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+  }
+
+  .text a {
+    text-decoration: none;
+  }
+
+  .text h2 {
+    padding-top: 20px;
+    margin: 0 auto;
+    font-family: "Misans Lao", sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    color: black;
+    font-size: 24px;
+  }
+
+  .text p {
+    margin: 0 auto;
+    font-family: "Sansation", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    color: black;
+    font-size: 16px;
+  }
+
+  .container-glr {
+    padding-top: 10px;
+  }
+
+  .gelery {
+    justify-content: center;
+  }
+
+  .gelery img {
+    margin: 3px;
+    width: 153px;
+    height: auto;
+    border-radius: 13px;
+  }
+
+  .back {
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  .button {
+    padding-top: 25px;
+    display: block;
+    transition: tranform 0.9 ease;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .btn {
+    background: linear-gradient(to right, #ffffff, #676363);
+    color: #484242;
+    font-size: 30px;
+    text-decoration: none;
+    border-radius: 40px;
+    font-family: "Misans Lao", sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-style: normal;
+  }
+
+  .btn i {
+    color: #ffffff;
+  }
+}
+.font {
+    font-family: "Noto Sans Lao";
+}
