@@ -54,7 +54,7 @@
             <div class="btn-back">
                 <div class="button">
                     <a class="btn" style="font-size: 18px;"
-                        href="index.html">
+                        href="index.php">
                        ອັບເດດຄັ້ງລ່າສຸດ 5/4/2024 
                     </a>
                 </div>
