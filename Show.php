@@ -9,7 +9,8 @@
     <link rel="stylesheet" href="style2.css">
 </head>
 
-<body style="background-image: url('https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-13.gif');">
+<body
+    style="background-image: url('https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-13.gif');">
     <header class="info">
         <div class="container">
             <div class="content">
@@ -53,9 +54,8 @@
         <div class="container">
             <div class="btn-back">
                 <div class="button">
-                    <a class="btn" style="font-size: 18px;"
-                        href="index.php">
-                       ອັບເດດຄັ້ງລ່າສຸດ 5/4/2024 
+                    <a class="btn" style="font-size: 18px;" href="index.php">
+                        ອັບເດດຄັ້ງລ່າສຸດ 5/4/2024
                     </a>
                 </div>
             </div>
