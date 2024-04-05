@@ -33,7 +33,7 @@
                         href="https://drive.google.com/drive/folders/1wgNrRS1CrAob5CZ-uvhm5VSh8ykYn2rh?fbclid=IwAR0WwE-cjM02kkdB3W3zIcj2ZXpb38yQ-z7BRlf2jo5vI1ni8NulcGPyki8_aem_ATZo1xGJh4uxTloWVl2_D1y-W-aDopkCrvv4KGIZH4UiM3HrlyoqFw9GciT7koAGSe5y7yzQvghokuFEKuxhXUWG">
                         <img src="img/Group 15.png" alt="" width="314" height="84">
                     </a>
-                    <a class="btn" href="Show.html">
+                    <a class="btn" href="Show.php">
                         <img src="img/Group-13.gif" alt="" width="314" height="84">
                     </a>
                     <a class="btn" href="https://kobxplorer.gumroad.com/l/MobilePosterV2">
@@ -54,7 +54,7 @@
                 </div>
                 <div class="text3">
                     <a>
-                        <h2>ອັບເດດຕຄັ້ງລ່າສຸດ</h2>
+                        <h2>ອັບເດດຄັ້ງລ່າສຸດ</h2>
                         <p>ວັນທີ5/4/2024</p>
                     </a>
                 </div>

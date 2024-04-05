@@ -198,21 +198,7 @@ body {
     margin: 0 auto;
   }
 
-  .btn {
-    background: linear-gradient(to right, #ffffff, #676363);
-    color: #484242;
-    font-size: 30px;
-    text-decoration: none;
-    border-radius: 40px;
-    font-family: "Misans Lao", sans-serif;
-    font-style: normal;
-    font-weight: 900;
-    font-style: normal;
-  }
 
-  .btn i {
-    color: #ffffff;
-  }
 }
 .font {
     font-family: "Noto Sans Lao";
