@@ -26,9 +26,9 @@ body {
 
 .content {
   margin-top: 37px;
-  padding-top: 35px;
+  padding-top: 10px;
   width: 330px;
-  height: 235px;
+  height: 200px;
 
   background-color: white;
   border-radius: 21px;
@@ -92,7 +92,7 @@ body {
 }
 
 .btn {
-  background: linear-gradient(to right, #ffffff, #a5a5a5);
+  background: linear-gradient(to right, #80fff9, #6554ff);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -136,7 +136,6 @@ body {
     padding-top: 35px;
     width: 330px;
     height: 235px;
-
     background-color: white;
     border-radius: 21px;
   }
@@ -217,4 +216,13 @@ body {
 }
 .font {
     font-family: "Noto Sans Lao";
+}
+
+@media (max-width: 768px) {
+    .profile {
+        width: 150px; /* Adjust width for smaller screens */
+        height: 150px; /* Adjust height for smaller screens */
+        border-radius: 50%;
+        left: calc(50% - 76px);
+    }
 }

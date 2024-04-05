@@ -39,13 +39,13 @@ body {
 }
 
 
+
 .content {
 
     margin-top: 37px;
     padding-top: 35px;
     width: 330px;
     height: 235px;
-
     background-color: white;
     border-radius: 21px;
 }
@@ -169,4 +169,13 @@ body {
 
 .font {
     font-family: "Noto Sans Lao";
+}
+
+@media (max-width: 768px) {
+    .profile {
+        width: 150px; /* Adjust width for smaller screens */
+        height: 150px; /* Adjust height for smaller screens */
+        border-radius: 50%;
+        left: calc(50% - 76px);
+    }
 }
